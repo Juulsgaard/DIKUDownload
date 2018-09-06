@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7bb72fa1-7ae0-4b1d-a280-92f943222792" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools.php" beforeDir="false" afterPath="$PROJECT_DIR$/tools.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,17 +40,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bat" value="26" />
-          <entry key="json" value="116" />
+          <entry key="json" value="120" />
           <entry key="php" value="3273" />
-          <entry key="txt" value="636" />
+          <entry key="txt" value="663" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bat" value="26" />
-          <entry key="JSON" value="116" />
+          <entry key="JSON" value="120" />
           <entry key="PHP" value="3273" />
-          <entry key="PLAIN_TEXT" value="636" />
+          <entry key="PLAIN_TEXT" value="663" />
         </counts>
       </usages-collector>
     </session>
@@ -75,16 +75,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tools.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="194">
@@ -114,8 +114,8 @@
         <option value="$PROJECT_DIR$/download (windows).bat" />
         <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/downloadDIKU.php" />
-        <option value="$PROJECT_DIR$/config.json" />
         <option value="$PROJECT_DIR$/tools.php" />
+        <option value="$PROJECT_DIR$/config.json" />
       </list>
     </option>
   </component>
@@ -186,7 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1536145075579</updated>
       <workItem from="1536145076791" duration="15869000" />
-      <workItem from="1536218299622" duration="29000" />
+      <workItem from="1536218299622" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="minor">
       <created>1536168804536</created>
@@ -195,11 +195,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536168804537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed appended C: on Unix">
+      <created>1536218353969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536218353969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15898000" />
+    <option name="totallyTimeSpent" value="16148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1633" height="1053" extended-state="6" />
@@ -210,7 +217,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -234,7 +241,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="minor" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor" />
+    <MESSAGE value="Fixed appended C: on Unix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed appended C: on Unix" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/download (linux+OSX).sh" />
@@ -243,13 +251,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="62" column="58" selection-start-line="62" selection-start-column="58" selection-end-line="62" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -264,6 +265,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
