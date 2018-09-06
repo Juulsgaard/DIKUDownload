@@ -46,7 +46,7 @@ function cleanPath($path)
 	$path = preg_replace("/^C:/", "", $path);
 	$path = preg_replace("/ ?[:]/", " -", $path);
 	$path = preg_replace("/ ?\.\.\./", "", $path);
-	return "C:" . $path;
+	return $path;
 }
 
 function cleanName($name) {
